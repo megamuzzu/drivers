@@ -1,0 +1,6 @@
+.productNameCon h2{
+	font-size: 17px;
+}
+.productNameCon p{
+	font-size: 15px;
+}
