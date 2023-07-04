@@ -389,7 +389,7 @@ $config['admin_email_id'] = 'support@driverrepair24x7.com';
 // Stripe 
 $config['secret_key'] = 'sk_test_51JzwdLSG8ujZQhQajowVbaLwRM8gWaM5w1tsBwTjQmMdXKRAVLmLkfF8mSJrPxIKmJOj0lyzYMbBgGI9kF6nj7O900CADd60aC';
 $config['publishable_key'] = 'pk_test_51JzwdLSG8ujZQhQaS28tv6flzhnqhUv6TK8ePzjFpyHujZ42zAo5b9KsNGkTaoBTWO8MjadecBXHI544kMjTSiFi00Tgruqenk';
-$config['price_key1'] = 'price_1NNXOuSG8ujZQhQabWwzWx72';
+$config['price_key1'] = 'price_1NQAGaSG8ujZQhQaVJSnMgis';
 $config['price_key2'] = '';	
 $config['price_key_yearly'] = '';
 
